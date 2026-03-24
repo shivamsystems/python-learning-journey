@@ -1,6 +1,6 @@
 # Python Learning Journey 🐍🤖
 
-Welcome to my Python learning repository. I am a Mechanical Design Engineer transitioning into Robotics Software Engineering, with a focus on Artificial Intelligence and Machine Learning (AI/ML).
+Welcome to my Python learning repository. I am a Mechanical Design Engineer transitioning into Robotics Software Engineering.
 
 This repository serves as a log of my coursework, daily practice, and projects as I build a strong foundation in software engineering.
 
@@ -9,8 +9,8 @@ This repository serves as a log of my coursework, daily practice, and projects a
 * **Objective:** Mastering Python fundamentals, data structures, and algorithms to eventually build and optimize robotics software.
 
 ## 🗂️ Repository Structure
-* `/class_01_conditionals/` - Practice scripts covering `if/elif/else` and `match` statements.
-* `/class_02_loops/` - Exercises utilizing `for` loops, `while` loops, and list iterations.
+* `/02_conditionals/` - Practice scripts covering `if/elif/else` and `match` statements.
+* `/03_loops/` - Exercises utilizing `for` loops, `while` loops, and list iterations.
 * *(More directories will be added as the journey progresses)*
 
 ## 🚀 About Me
