@@ -20,6 +20,6 @@ if q3 == 3.141:
 else:
     score_q3 = 0
     
-#Print final score and grade at end
+#Print final score
 score = score_q1 + score_q2 + score_q3
 print(f"Your final score is {score}")

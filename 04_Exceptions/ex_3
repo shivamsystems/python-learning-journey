@@ -1,0 +1,12 @@
+'''
+Modify Exercise 1. Add an else block.
+If the user enters a valid integer,
+the else block should print "Robot ID [number] authenticated."
+'''
+
+try:
+    robot_id = int(input("Robot ID (Interger): "))
+except ValueError:
+    print("Invalid ID format")
+else:
+    print(f"Robot ID {robot_id} authenticated.")

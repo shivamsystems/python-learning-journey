@@ -9,7 +9,6 @@ print("3. Withdraw")
 choice = int(input("Please input the option: "))
 
 if choice == 1:
-    
     print(f"Your balance after deposit is {balance}₹")
     
 elif choice == 2:
@@ -23,6 +22,6 @@ elif choice == 3:
     if balance > 0:
         print(f"Your final ammount after Withdrawal is {balance} ")
     else:
-        print("Enter ammount greater than {choice}")
+        print(f"Enter ammount greater than {choice}")
  
     
