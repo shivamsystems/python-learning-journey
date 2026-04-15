@@ -11,6 +11,7 @@ This repository serves as a log of my coursework, daily practice, and projects a
 ## 🗂️ Repository Structure
 * `/02_conditionals/` - Practice scripts covering `if/elif/else` and `match` statements.
 * `/03_loops/` - Exercises utilizing `for` loops, `while` loops, and list iterations.
+* `/04_error_handelling/` - Exercises utilizing `try, except,else,finally`, and raise error for preventing hardwere failure.
 * *(More directories will be added as the journey progresses)*
 
 ## 🚀 About Me
